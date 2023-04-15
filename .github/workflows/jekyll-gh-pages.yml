@@ -35,6 +35,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: render-md-mermaid
+        uses: nielsvaneck/render-md-mermaid@v2
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
