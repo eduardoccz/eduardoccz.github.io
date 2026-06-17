@@ -1,0 +1,160 @@
+{
+  "name": "Eduardo Cazangi",
+  "title": "Tech Lead | Engenheiro de Software Sênior",
+  "subtitle": "Java · AWS · Microsserviços · Sistemas de Alta Disponibilidade",
+  "location": "Vila Velha, ES — Brasil",
+  "email": "cazangieduardo@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/eduardocazangi/",
+  "github": "https://github.com/eduardoccz",
+  "summary": "Engenheiro de Software Java desde 2011, especializado em APIs, microsserviços e arquitetura de serviços escaláveis e de alta disponibilidade. Sólida experiência com integrações, tuning de performance e construção de soluções backend robustas. Atuei também como Tech Lead, liderando squads e conduzindo decisões técnicas importantes. Experiência prática com AWS, Kafka e Kubernetes em sistemas distribuídos e resilientes projetados para ambientes de alto tráfego.",
+  "experience": [
+    {
+      "company": "CWI Software",
+      "role": "Tech Lead",
+      "period": "Abril 2026 – Presente",
+      "location": "Vila Velha, ES",
+      "highlights": [
+        "Liderança técnica e decisões arquiteturais para sistemas de missão crítica",
+        "Coordenação de squad e estabelecimento de boas práticas de engenharia"
+      ],
+      "skills": ["Java", "Apache Kafka", "Kubernetes", "Spring Boot"]
+    },
+    {
+      "company": "Nubank",
+      "role": "Engenheiro de Software Sênior",
+      "period": "Maio 2024 – Janeiro 2026",
+      "location": "Vila Velha, ES",
+      "highlights": [
+        "Construí sistemas de recomendação e classificação de investimentos atendendo milhões de clientes",
+        "Desenvolvi a plataforma principal do produto Caixinhas do Nubank (poupança com 100% do CDI, multi-país)",
+        "Atuei como desenvolvedor backend e frontend em times internacionais altamente multifuncionais",
+        "Colaborei diretamente com especialistas em investimentos, PMs, designers e analistas de dados"
+      ],
+      "skills": ["Clojure", "Datomic", "Apache Kafka", "Kubernetes", "Databricks", "Grafana", "Figma", "JIRA", "Scrum"]
+    },
+    {
+      "company": "PicPay",
+      "role": "Tech Lead",
+      "period": "Setembro 2022 – Maio 2024",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Liderança do time de Integridade Transacional — monitoramento e consistência de todas as transações financeiras",
+        "Ponto de contato técnico entre engenharia, produto e stakeholders de negócio",
+        "Facilitação de cerimônias Ágeis: planejamento de sprint, refinamentos, reviews e retrospectivas",
+        "Gestão de priorização de iniciativas técnicas e dívida técnica em ambiente de alto volume transacional"
+      ],
+      "skills": ["Java", "Spring Boot", "Apache Kafka", "Apache Flink", "Kubernetes", "AWS", "Redis", "MongoDB", "MySQL", "OpenSearch", "Debezium", "Docker", "Grafana", "Databricks", "New Relic", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "PicPay",
+      "role": "Engenheiro de Software Java",
+      "period": "Setembro 2021 – Maio 2024",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Desenvolvi o Sentinela — plataforma de monitoramento de transações em tempo real, processando centenas de milhões de mensagens/dia",
+        "Construí o Sistema de Derivação Contábil para relatórios regulatórios e demonstrações financeiras",
+        "Implementei mecanismos de detecção de falhas e alertas para fluxos financeiros críticos"
+      ],
+      "skills": ["Java", "Spring Boot", "Apache Kafka", "Apache Flink", "Kubernetes", "AWS", "Redis", "MongoDB", "MySQL", "OpenSearch", "Debezium", "Docker", "Grafana", "JUnit", "SonarQube"]
+    },
+    {
+      "company": "ITIX",
+      "role": "Team Lead",
+      "period": "Dezembro 2020 – Setembro 2021",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Liderança de arquitetura e design técnico de novos sistemas estratégicos para a Benevix (Administradora de Planos de Saúde)",
+        "Revisão de código e estabelecimento de boas práticas de engenharia",
+        "Principal liaison técnico entre stakeholders e o time de engenharia"
+      ],
+      "skills": ["Java", "Spring Boot", "AWS", "Docker", "MySQL", "Oracle", "PL/SQL", "EJB", "JPA", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "ITIX",
+      "role": "Desenvolvedor de Software",
+      "period": "Fevereiro 2020 – Novembro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Consultor para Benevix (Administradora de Planos de Saúde) — manutenção de sistemas legados e desenvolvimento de novos sistemas",
+        "Suporte a sistemas legados de saúde para CNU (Operadora de Plano de Saúde) em ambiente regulado"
+      ],
+      "skills": ["Java", "Spring Boot", "Oracle", "PL/SQL", "MySQL", "Docker", "AWS"]
+    },
+    {
+      "company": "Benevix Administradora de Planos de Saúde",
+      "role": "Tech Lead",
+      "period": "Abril 2019 – Fevereiro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Liderança técnica em múltiplos sistemas de missão crítica para administração de planos de saúde",
+        "Garantia de confiabilidade, escalabilidade e evolução de longo prazo dos sistemas"
+      ],
+      "skills": ["Java", "Spring Boot", "AWS", "JSF", "PrimeFaces", "MySQL", "New Relic", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "Benevix Administradora de Planos de Saúde",
+      "role": "Desenvolvedor de Software",
+      "period": "Maio 2018 – Fevereiro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Desenvolvi sistemas de geração de boletos e faturas",
+        "Construí sistemas de cálculo de comissões e integração bancária via arquivos CNAB",
+        "Implementei notificações via SMS e e-mail usando serviços AWS",
+        "Contribuí para desenvolvimento de chatbot no WhatsApp para atendimento ao cliente"
+      ],
+      "skills": ["Java", "Spring Boot", "JSF", "PrimeFaces", "AWS", "MySQL", "JavaScript", "Docker"]
+    },
+    {
+      "company": "Spassu Tecnologia e Serviços",
+      "role": "Desenvolvedor de Software",
+      "period": "Outubro 2014 – Maio 2018",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Entrega de sistemas regulatórios de grande porte para a ANS — CADOP, padrões TISS e TUSS",
+        "Construção de sistemas financeiros e de faturamento para órgãos governamentais",
+        "Contribuição para Sistema de Banco de Talentos interno, posteriormente comercializado pela empresa",
+        "Atuação como Engenheiro de Software e Scrum Master na ANCINE (Agência Nacional do Cinema)"
+      ],
+      "skills": ["Java", "Java EE", "EJB", "JSF", "PrimeFaces", "Oracle", "PL/SQL", "PostgreSQL", "MySQL", "Jenkins", "SonarQube", "Subversion", "Scrum"]
+    },
+    {
+      "company": "Acontece Solutions",
+      "role": "Desenvolvedor de Software",
+      "period": "Abril 2011 – Abril 2014",
+      "location": "Linhares, ES",
+      "highlights": [
+        "Desenvolvi Motor de Regras de Cobrança para seguros e produtos de valor agregado (Garantia Estendida, Proteção de Carteira)",
+        "Construí Sistemas de Vendas e Portal de Vendas integrados com parceiros como CARDIF, CPP e Symantec",
+        "Criei Sistema Administrativo para controle de contratos e gestão operacional",
+        "Conduzi implantações e suporte em produção garantindo continuidade do serviço"
+      ],
+      "skills": ["Java", "GWT", "Oracle", "PL/SQL", "Apache Tomcat", "JavaScript"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculdade de Pimenta Bueno — FAP",
+      "degree": "Bacharel em Sistemas de Informação",
+      "period": "2007 – 2010"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Cloud Practitioner Essentials",
+      "issuer": "Amazon Web Services"
+    }
+  ],
+  "skills": {
+    "languages_platforms": ["Java", "Clojure", "JavaScript", "PL/SQL", "GWT"],
+    "frameworks": ["Spring Boot", "Java EE / EJB", "JSF / PrimeFaces", "JPA / Hibernate", "JUnit"],
+    "cloud_infra": ["AWS", "Kubernetes", "Docker"],
+    "data_streaming": ["Apache Kafka", "Apache Flink", "Debezium", "Datomic"],
+    "databases": ["MySQL", "PostgreSQL", "Oracle", "MongoDB", "Redis", "OpenSearch", "Databricks"],
+    "observability": ["Grafana", "New Relic", "Stackify Retrace", "SonarQube"],
+    "tools_methodologies": ["Git", "GitFlow", "JIRA", "Scrum", "Jenkins", "Docker"]
+  },
+  "languages": [
+    { "lang": "Português", "level": "Nativo" },
+    { "lang": "Inglês", "level": "Intermediário (proficiência profissional)" }
+  ]
+}

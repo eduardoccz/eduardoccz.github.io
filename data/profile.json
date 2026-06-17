@@ -1,0 +1,160 @@
+{
+  "name": "Eduardo Cazangi",
+  "title": "Tech Lead | Senior Software Engineer",
+  "subtitle": "Java · AWS · Microservices · High-Availability Systems",
+  "location": "Vila Velha, ES — Brasil",
+  "email": "cazangieduardo@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/eduardocazangi/",
+  "github": "https://github.com/eduardoccz",
+  "summary": "Java Software Engineer since 2011, specializing in APIs, microservices, and the architecture of scalable and high-availability services. Solid experience with integrations, performance tuning, and building robust backend solutions. Also worked as Tech Lead, leading squads and driving important technical decisions. Hands-on experience with AWS, Kafka, and Kubernetes in distributed, resilient systems designed for high-traffic environments.",
+  "experience": [
+    {
+      "company": "CWI Software",
+      "role": "Tech Lead",
+      "period": "Abril 2026 – Presente",
+      "location": "Vila Velha, ES",
+      "highlights": [
+        "Technical leadership and architectural decisions for mission-critical systems",
+        "Squad coordination and engineering best practices"
+      ],
+      "skills": ["Java","Apache Kafka", "Kubernetes", "Spring Boot"]
+    },
+    {
+      "company": "Nubank",
+      "role": "Senior Software Engineer",
+      "period": "Maio 2024 – Janeiro 2026",
+      "location": "Vila Velha, ES",
+      "highlights": [
+        "Built investment recommendation and classification systems serving millions of customers",
+        "Developed core platform behind Nubank's Money Boxes product (savings with 100% CDI, multi-country)",
+        "Acted as both backend and frontend developer in highly cross-functional, international teams",
+        "Collaborated directly with investment specialists, product managers, designers, and data analysts"
+      ],
+      "skills": ["Clojure", "Datomic", "Apache Kafka", "Kubernetes", "Databricks", "Grafana", "Figma", "JIRA", "Scrum"]
+    },
+    {
+      "company": "PicPay",
+      "role": "Tech Lead",
+      "period": "Setembro 2022 – Maio 2024",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Led the Transactional Integrity team — monitoring and consistency of all financial transactions",
+        "Technical point of contact between engineering, product, and business stakeholders",
+        "Facilitated Agile ceremonies: sprint planning, refinements, reviews, retrospectives",
+        "Managed prioritization of technical initiatives and tech debt in high-volume transaction environments"
+      ],
+      "skills": ["Java", "Spring Boot", "Apache Kafka", "Apache Flink", "Kubernetes", "AWS", "Redis", "MongoDB", "MySQL", "OpenSearch", "Debezium", "Docker", "Grafana", "Databricks", "New Relic", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "PicPay",
+      "role": "Java Software Engineer",
+      "period": "Setembro 2021 – Maio 2024",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Developed Sentinela — real-time transaction monitoring platform processing hundreds of millions of messages/day",
+        "Built Accounting Derivation System for regulatory reporting and financial statements",
+        "Implemented failure detection and alerting mechanisms for critical financial flows"
+      ],
+      "skills": ["Java", "Spring Boot", "Apache Kafka", "Apache Flink", "Kubernetes", "AWS", "Redis", "MongoDB", "MySQL", "OpenSearch", "Debezium", "Docker", "Grafana", "JUnit", "SonarQube"]
+    },
+    {
+      "company": "ITIX",
+      "role": "Team Lead",
+      "period": "Dezembro 2020 – Setembro 2021",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Led architecture and technical design for new strategic systems at Benevix (Health Plan Administrator)",
+        "Conducted code reviews, established engineering best practices",
+        "Primary technical liaison between stakeholders and the engineering team"
+      ],
+      "skills": ["Java", "Spring Boot", "AWS", "Docker", "MySQL", "Oracle", "PL/SQL", "EJB", "JPA", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "ITIX",
+      "role": "Software Developer",
+      "period": "Fevereiro 2020 – Novembro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Consultant for Benevix (Health Plan Administrator) — legacy and new system development",
+        "Supported legacy healthcare systems for CNU (Health Insurance Operator) in regulated environment"
+      ],
+      "skills": ["Java", "Spring Boot", "Oracle", "PL/SQL", "MySQL", "Docker", "AWS"]
+    },
+    {
+      "company": "Benevix Administradora de Planos de Saúde",
+      "role": "Tech Lead",
+      "period": "Abril 2019 – Fevereiro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Led technical decisions across multiple mission-critical systems for healthcare plan administration",
+        "Ensured system reliability, scalability, and long-term maintainability"
+      ],
+      "skills": ["Java", "Spring Boot", "AWS", "JSF", "PrimeFaces", "MySQL", "New Relic", "SonarQube", "Scrum"]
+    },
+    {
+      "company": "Benevix Administradora de Planos de Saúde",
+      "role": "Software Developer",
+      "period": "Maio 2018 – Fevereiro 2020",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Developed invoice and bank slip (boleto) generation systems",
+        "Built commission calculation systems and bank integrations via CNAB files",
+        "Implemented SMS and email notifications using AWS services",
+        "Contributed to WhatsApp chatbot for customer service"
+      ],
+      "skills": ["Java", "Spring Boot", "JSF", "PrimeFaces", "AWS", "MySQL", "JavaScript", "Docker"]
+    },
+    {
+      "company": "Spassu Tecnologia e Serviços",
+      "role": "Software Developer",
+      "period": "Outubro 2014 – Maio 2018",
+      "location": "Vitória, ES",
+      "highlights": [
+        "Delivered large-scale regulatory systems for ANS (National Supplementary Health Agency) — CADOP, TISS, TUSS standards",
+        "Built financial and billing systems for government agencies",
+        "Contributed to internal Talent Pool System, later productized commercially",
+        "Worked as Software Engineer and Scrum Master at ANCINE (National Film Agency)"
+      ],
+      "skills": ["Java", "Java EE", "EJB", "JSF", "PrimeFaces", "Oracle", "PL/SQL", "PostgreSQL", "MySQL", "Jenkins", "SonarQube", "Subversion", "Scrum"]
+    },
+    {
+      "company": "Acontece Solutions",
+      "role": "Software Developer",
+      "period": "Abril 2011 – Abril 2014",
+      "location": "Linhares, ES",
+      "highlights": [
+        "Developed Billing Rule Engine for insurance and value-added service products (Extended Warranty, Wallet Protection)",
+        "Built Sales Systems and Sales Portal integrated with partners like CARDIF, CPP, and Symantec",
+        "Created Administrative System for contract tracking and operational management",
+        "Led system deployment and production support"
+      ],
+      "skills": ["Java", "GWT", "Oracle", "PL/SQL", "Apache Tomcat", "JavaScript"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculdade de Pimenta Bueno — FAP",
+      "degree": "Bacharel em Sistemas de Informação",
+      "period": "2007 – 2010"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Cloud Practitioner Essentials",
+      "issuer": "Amazon Web Services"
+    }
+  ],
+  "skills": {
+    "languages_platforms": ["Java", "Clojure", "JavaScript", "PL/SQL", "GWT"],
+    "frameworks": ["Spring Boot", "Java EE / EJB", "JSF / PrimeFaces", "JPA / Hibernate", "JUnit"],
+    "cloud_infra": ["AWS", "Kubernetes", "Docker"],
+    "data_streaming": ["Apache Kafka", "Apache Flink", "Debezium", "Datomic"],
+    "databases": ["MySQL", "PostgreSQL", "Oracle", "MongoDB", "Redis", "OpenSearch", "Databricks"],
+    "observability": ["Grafana", "New Relic", "Stackify Retrace", "SonarQube"],
+    "tools_methodologies": ["Git", "GitFlow", "JIRA", "Scrum", "Jenkins", "Docker"]
+  },
+  "languages": [
+    { "lang": "Português", "level": "Nativo" },
+    { "lang": "Inglês", "level": "Intermediário (working proficiency)" }
+  ]
+}
